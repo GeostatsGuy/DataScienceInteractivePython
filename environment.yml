@@ -1,0 +1,16 @@
+name: basic_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - pandas
+  - scikit-learn
+  - numba
+  - statsmodels
+  - pip
+  - pip:
+    - geostatspy
