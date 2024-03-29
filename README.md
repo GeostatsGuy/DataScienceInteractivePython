@@ -8,7 +8,7 @@
 
 *To support my students in my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses and anyone else learning data analytics and machine learning, I have developed a set of Python interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn by playing with the statistics, models or theoretical concepts!* 
 
-### Michael Pyrcz, Professor, The University of Texas at Austin 
+### Michael Pyrcz, Professor, The University of Texas at Austin, Data Analytics, Geostatistics and Machine Learning 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
 ***
