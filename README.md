@@ -2,15 +2,8 @@
 Python interactive dashboards for learning data science
 
 
-<p align="center">
-***test***
-</p>
+  <h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
 
-<div align="center">
-  ***
-  Interactive dashboards to help you over the intellectual hurdles of data science!
-  ***
-</div>
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
