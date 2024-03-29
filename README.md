@@ -1,14 +1,12 @@
 # DataScience_Interactive_Python
-Python interactive dashboards for learning data science
-
-
-  <h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
 
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-To support my students in my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses and anyone else learning data analytics and machine learning, I have developed a set of Python interactive dashboards. 
+<h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
+
+*To support my students in my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses and anyone else learning data analytics and machine learning, I have developed a set of Python interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn data science by playing with the system.* 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/DataScience_Interactive_Python/HEAD)
 
