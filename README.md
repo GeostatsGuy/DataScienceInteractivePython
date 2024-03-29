@@ -1,9 +1,14 @@
 # DataScience_Interactive_Python
 Python interactive dashboards for learning data science
 
-<div align="center">
-  _Interactive dashboards to help you over the intellectual hurdles of data science!_
 
+<p align="center">
+*test*
+</p>
+
+<div align="center">
+  ***
+  Interactive dashboards to help you over the intellectual hurdles of data science!
   ***
 </div>
 <p>
