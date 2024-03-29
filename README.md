@@ -1,8 +1,9 @@
 # DataScience_Interactive_Python
 Python interactive dashboards for learning data science
 
-<center>Centered text</center>
-
+<div align="center">
+  my text here.
+</div>
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
