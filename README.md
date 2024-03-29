@@ -35,10 +35,18 @@ The required datasets are available in the [GeoDataSets](https://github.com/Geos
 
 The interative Python examples include a variety of topics like:
 
-* Bayesian statistics
+* Bayesian and frequentist statistics
+* univariate and bivariate statistics
+* confidence intervals and hypothesis testing
+* Monte Carlo methods and bootstrap
+* inferential machine learning, principal component and cluster analysis
+* predictive machine learning, norms, model parameter training and hyperparameter tuning, overfit models
+* uncertainty modeling checking
+* spatial data debiasing
 * variogram calculation and modeling
-* spatial estimation
-* spatial simulation
+* spatial estimation, issues and trend modeling
+* spatial simulation and summarization over realizations
+* decision making in the presence of uncertainty
 
 If you want to see all my shared educational content check out:
 * [**Resources Inventory**](https://github.com/GeostatsGuy/Resources)
