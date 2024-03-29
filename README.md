@@ -3,7 +3,7 @@ Python interactive dashboards for learning data science
 
 
 <p align="center">
-*test*
+***test***
 </p>
 
 <div align="center">
