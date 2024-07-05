@@ -31,6 +31,8 @@ To further support my students, I'm using [Binder](https://mybinder.readthedocs.
 
 Click on the link above to launch binder with container to run the included workflow.
 
+***
+
 #### Setup
 
 A minimum environment is set set up with:
