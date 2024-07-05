@@ -43,7 +43,7 @@ A minimum environment includes:
 * ipywidgets - for plot interactivity
 * [GeostatsPy](https://pypi.org/project/geostatspy/) - geostatistical algorithms and functions (Pyrcz et al., 2021)
 
-The required datasets are available in the [GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets) repository and linked in the workflows
+The required datasets are available in the [GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets) repository and linked in the workflows.
 
 #### Repository Summary
 
