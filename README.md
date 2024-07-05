@@ -2,8 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p></h1>
 
-<h1 align="center">DataScienceInteractivePythons:</h1> 
-<h1 align="center">Interactive Educational Data Science Python Dashboards Repository (0.0.1)</h1>
+<h1 align="center">DataScienceInteractivePythons:                     Interactive Educational Data Science Python Dashboards Repository (0.0.1)</h1>
 
 <h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
 
