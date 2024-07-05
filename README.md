@@ -17,18 +17,21 @@
 
 Pyrcz, Michael J. (2021). DataScienceInteractivePythons: Educational Data Science Interactive Python Dashboards Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
 
-***
-
 [![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
 
+***
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/DataScience_Interactive_Python/HEAD)
+#### Binder
 
 To further support my students, I'm using [Binder](https://mybinder.readthedocs.io/en/latest/index.html) to host some of my **interactive Python spatial data analytics, geostatistics and machine learning demonstration workflows** online. Some of my students are having issues with setting up their local computing environments and instantiating the interactive workflows. 
 
 * I hope this will assist these students and remove barriers for these educational tools to invite a wider audience that may benefit from experiential learning - playing with the systems and machines in real-time. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/DataScience_Interactive_Python/HEAD)
+
 Click on the link above to launch binder with container to run the included workflow.
+
+#### Setup
 
 A minimum environment is set set up with:
 
@@ -41,6 +44,8 @@ A minimum environment is set set up with:
 * [GeostatsPy](https://pypi.org/project/geostatspy/) - geostatistical algorithms and functions (Pyrcz et al., 2021)
 
 The required datasets are available in the [GeoDataSets](https://github.com/GeostatsGuy/GeoDataSets) repository and linked in the workflows
+
+#### Repository Summary
 
 The interative Python examples include a variety of topics like:
 
