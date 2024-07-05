@@ -1,6 +1,6 @@
-<p>
+<h1 align="center"<p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
-</p>
+</p></h1>
 
 <h1 align="center">DataScienceInteractivePythons: Interactive Educational Data Science Python Dashboards Repository (0.0.1)</h1>
 
