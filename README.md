@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-  <h1 align="center">DataScience_Interactive_Python</h1>
+<h1 align="center">DataScienceInteractivePythons: Interactive Educational Data Science Python Dashboards Repository (0.0.1)</h1>
 
 <h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
 
@@ -12,6 +12,15 @@
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
 ***
+
+### Cite As:
+
+Pyrcz, Michael J. (2021). DataScienceInteractivePythons: Educational Data Science Interactive Python Dashboards Repository (0.0.1). Zenodo. https://doi.org/10.5281/zenodo.5564966
+
+***
+
+[![DOI](https://zenodo.org/badge/106843586.svg)](https://zenodo.org/doi/10.5281/zenodo.5564966)
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeostatsGuy/DataScience_Interactive_Python/HEAD)
 
