@@ -33,7 +33,7 @@ Click on the link above to launch binder with container to run the included work
 
 #### Setup
 
-A minimum environment is set set up with:
+A minimum environment includes:
 
 * Python 3.7.10 - due to the depdendency of GeostatsPy on the Numba package for code acceleration
 * MatPlotLib - plotting
