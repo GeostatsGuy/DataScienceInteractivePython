@@ -10,6 +10,7 @@ dependencies:
   - pandas<2.0
   - seaborn<0.11.0
   - scikit-learn
+  - tqdm
   - numba
   - statsmodels
   - pip
