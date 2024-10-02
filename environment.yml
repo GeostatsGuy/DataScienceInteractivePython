@@ -7,7 +7,7 @@ dependencies:
   - scipy
   - matplotlib
   - ipywidgets
-  - pandas
+  - pandas<2.0
   - scikit-learn
   - numba
   - statsmodels
